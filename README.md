@@ -5,27 +5,27 @@ Its purpose is to use microservice patterns in practice.
 
 Development is still in progress. 
 
-[Wiki](https://github.com/ebubekirdinc/SuuCat/wiki)  
+[Wiki](https://github.com/rifat-simoom/hexarch/wiki)  
 
-[Getting Started](https://github.com/ebubekirdinc/SuuCat/wiki/Getting-Started)
+[Getting Started](https://github.com/rifat-simoom/hexarch/wiki/Getting-Started)
 
-[Saga Orchestration with MassTransit and RabbitMq](https://github.com/ebubekirdinc/SuuCat/wiki/Saga-Orchestration-with-MassTransit-and-RabbitMq)
+[Saga Orchestration with MassTransit and RabbitMq](https://github.com/rifat-simoom/hexarch/wiki/Saga-Orchestration-with-MassTransit-and-RabbitMq)
 
-[Eventual Consistency with Integration Events using RabbitMq](https://github.com/ebubekirdinc/SuuCat/wiki/Eventual-Consistency-with-Integration-Events-using-RabbitMq)
+[Eventual Consistency with Integration Events using RabbitMq](https://github.com/rifat-simoom/hexarch/wiki/Eventual-Consistency-with-Integration-Events-using-RabbitMq)
 
-[API Gateway with Ocelot](https://github.com/ebubekirdinc/SuuCat/wiki/API-Gateway-with-Ocelot)
+[API Gateway with Ocelot](https://github.com/rifat-simoom/hexarch/wiki/API-Gateway-with-Ocelot)
 
-[Authorization and Authentication with IdentityServer](https://github.com/ebubekirdinc/SuuCat/wiki/Authorization-and-Authentication-with-IdentityServer)
+[Authorization and Authentication with IdentityServer](https://github.com/rifat-simoom/hexarch/wiki/Authorization-and-Authentication-with-IdentityServer)
 
-[Distributed Logging with ElasticSearch, Kibana and SeriLog](https://github.com/ebubekirdinc/SuuCat/wiki/Distributed-Logging-with-ElasticSearch,-Kibana,-and-SeriLog)
+[Distributed Logging with ElasticSearch, Kibana and SeriLog](https://github.com/rifat-simoom/hexarch/wiki/Distributed-Logging-with-ElasticSearch,-Kibana,-and-SeriLog)
 
-[Resiliency and Fault Tolerance with Polly](https://github.com/ebubekirdinc/SuuCat/wiki/Resiliency-and-Fault-Tolerance-with-Polly)
+[Resiliency and Fault Tolerance with Polly](https://github.com/rifat-simoom/hexarch/wiki/Resiliency-and-Fault-Tolerance-with-Polly)
 
-[Health Check with WatchDogs](https://github.com/ebubekirdinc/SuuCat/wiki/Health-Check-with-WatchDogs)
+[Health Check with WatchDogs](https://github.com/rifat-simoom/hexarch/wiki/Health-Check-with-WatchDogs)
 
-[Distributed Tracing with Jaeger and OpenTelemetry](https://github.com/ebubekirdinc/SuuCat/wiki/Distributed-Tracing-with-Jaeger-and-OpenTelemetry)
+[Distributed Tracing with Jaeger and OpenTelemetry](https://github.com/rifat-simoom/hexarch/wiki/Distributed-Tracing-with-Jaeger-and-OpenTelemetry)
 
-[Metrics to Monitor Microservices with OpenTelemetry and Prometheus](https://github.com/ebubekirdinc/SuuCat/wiki/Metrics-to-Monitor-Microservices-with-OpenTelemetry)
+[Metrics to Monitor Microservices with OpenTelemetry and Prometheus](https://github.com/rifat-simoom/hexarch/wiki/Metrics-to-Monitor-Microservices-with-OpenTelemetry)
 
 
 ---

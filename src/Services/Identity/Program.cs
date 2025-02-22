@@ -32,7 +32,7 @@ builder.Services.AddIdentityServer(options =>
 
         // see https://identityserver4.readthedocs.io/en/latest/topics/resources.html
         options.EmitStaticAudienceClaim = true;
-        options.IssuerUri = "SuuCat";  
+        options.IssuerUri = "Hexarch";  
     })
     .AddInMemoryIdentityResources(Config.IdentityResources)
     .AddInMemoryApiResources(Config.ApiResources)

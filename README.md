@@ -31,11 +31,11 @@ Development is still in progress.
 ---
 
 
-## SuuCat Microservices Architecture Overview
+## Hexarch Microservices Architecture Overview
 ![microserviceArchitectureOverview](img/microserviceArchitectureOverview.png)
 
 ## Contributing
-:star: Star this project on GitHub - it's the first step to become a SuuCat supporter!
+:star: Star this project on GitHub - it's the first step to become a Hexarch supporter!
 
 Contributions are welcome! If you find a bug or have an idea for a new feature, please open an issue or submit a pull request.   
 

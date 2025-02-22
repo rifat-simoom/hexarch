@@ -1,6 +1,6 @@
-# SuuCat : .NET sample microservices application #
+# Hexarch : .NET sample microservices application #
 
-SuuCat is a sample containerized application consisting of several microservices.
+Hexarch is a sample containerized application consisting of several microservices.
 Its purpose is to use microservice patterns in practice.
 
 Development is still in progress. 

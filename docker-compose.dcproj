@@ -6,7 +6,7 @@
     <ProjectGuid>ea8378c3-9e5a-4f1d-a9d2-f71accbbb3ff</ProjectGuid>
     <DockerLaunchAction>LaunchBrowser</DockerLaunchAction>
     <DockerServiceUrl>{Scheme}://localhost:{ServicePort}/swagger</DockerServiceUrl>
-    <DockerServiceName>suucat</DockerServiceName>
+    <DockerServiceName>hexarch</DockerServiceName>
   </PropertyGroup>
   <ItemGroup>
     <None Include="docker-compose.override.yml">
